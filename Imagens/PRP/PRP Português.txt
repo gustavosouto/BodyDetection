@@ -1,0 +1,33 @@
+0 - nariz
+1 - olho esquerdo (interno)
+2 - olho esquerdo
+3 - olho esquerdo (externo)
+4 - olho direito (interno)
+5 - olho direito
+6 - olho direito (externo)
+7 - orelha esquerda
+8 - orelha direita
+9 - boca (esquerda)
+10 - boca (direita)
+11 - ombro esquerdo
+12 - ombro direito
+13 - cotovelo esquerdo
+14 - cotovelo direito
+15 - pulso esquerdo
+16 - pulso direito
+17 - dedo mínimo esquerdo
+18 - dedo mínimo direito
+19 - dedo indicador esquerdo
+20 - dedo indicador direito
+21 - polegar esquerdo
+22 - polegar direito
+23 - quadril esquerdo
+24 - quadril direito
+25 - joelho esquerdo
+26 - joelho direito
+27 - tornozelo esquerdo
+28 - tornozelo direito
+29 - calcanhar esquerdo
+30 - calcanhar direito
+31 - dedo indicador do pé esquerdo
+32 - dedo indicador do pé direito
