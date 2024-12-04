@@ -5,9 +5,8 @@
 
 - Gustavo Souto | https://github.com/GustavoSouto
 - Kayllane Justino | https://github.com/Kayllane-Justino
-- Lucas Marques | https://github.com/?????????
 - Luiz Felipe | https://github.com/LuizFelipee96
-- Thiago Alencar | https://github.com/????????
+
 
 ## Ideação do Projeto
 Este projeto consiste em detectar pontos de referência do corpo humano através de imagens ou videos mediante uso do Pose Landmarker o qual procederá com a identificação dos 33 (trinta e três) pontos de articulação do corpo humano. 
