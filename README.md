@@ -22,7 +22,7 @@ O objetivo é identificar as principais localizações do corpo, analisar sua re
 - MediaPipe; [Documentação](https://ai.google.dev/edge/mediapipe/solutions/guide?hl=pt-br)
 - OpenCV; [Documentação](https://docs.opencv.org/4.x/index.html)
 - BlazePose; [Documentação](https://arxiv.org/abs/2006.10204)
-- GHUM & GHUML [Documentação](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_GHUM__GHUML_Generative_3D_Human_Shape_and_Articulated_Pose_CVPR_2020_paper.pdf
+- GHUM & GHUML [Documentação](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_GHUM__GHUML_Generative_3D_Human_Shape_and_Articulated_Pose_CVPR_2020_paper.pdf)
 
 ## Recursos 
 - Processamentos de imagens de entrada: rotação, redimensionamento, normalização e conversão do espaço de cores das imagens;
@@ -36,7 +36,7 @@ O objetivo é identificar as principais localizações do corpo, analisar sua re
 O projeto foi implementado e publicado através de:
 
 - link: [Click aqui](https://bodydetection.netlify.app/)
-- QRcode: [Click Aqui](./Imagens/PRP/QRBody%20Detection.png)
+- QRcode: [Click Aqui](./Imagens/QRCode/QRBodyDetection.png)
 
 
 ## Contribuições
