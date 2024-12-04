@@ -33,7 +33,7 @@ O objetivo é identificar as principais localizações do corpo, analisar sua re
 - Ponto de Referência de Pose: Adiciona um mapeamento completo da pose de modo a gerar uma estimativa de 33 pontos de referência de posições tridimensionais;
 
 ## Netlify
-O projeto foi implementado e publicado através do link: [aqui](Link)
+O projeto foi implementado e publicado através do link: [aqui](https://bodydetection.netlify.app/)
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corrigir problemas ou adicionar novos recursos ao projeto.
